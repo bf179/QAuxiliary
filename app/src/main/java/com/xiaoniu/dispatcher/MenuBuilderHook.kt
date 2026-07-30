@@ -41,7 +41,6 @@ import me.hd.hook.menu.CopyMarkdown
 import me.hd.hook.menu.EditTextContent
 import me.hd.hook.menu.RecallMsgRecord
 import me.hd.hook.menu.RepeatToImg
-import me.ketal.hook.CustomPicActionHook
 import me.ketal.hook.PicCopyToClipboard
 import me.qcuncle.hook.TranslateTextMsg
 import top.xunflash.hook.MiniAppDirectJump
@@ -67,7 +66,6 @@ object MenuBuilderHook : BasePersistBackgroundHook() {
         TranslateTextMsg,
         RecallMsgRecord,
         RepeatToImg,
-        CustomPicActionHook,
     )
 
     override fun initOnce(): Boolean {
