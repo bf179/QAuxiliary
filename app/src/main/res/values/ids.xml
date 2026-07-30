@@ -52,4 +52,5 @@
     <item name="XEditTextEx_onTextContextMenuItemInterceptor" type="id" />
     <item name="ShareActionSheet_sharePictureWithExtApp" type="id" />
     <item name="ShareActionSheet_shareFileWithExtApp" type="id" />
+    <item type="id" name="item_custom_pic_action" />
 </resources>
